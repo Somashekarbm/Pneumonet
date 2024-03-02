@@ -12,7 +12,7 @@ A simple CNN
 Transfer Learning, employing a pretrained model with frozen layers for feature extraction
 Fine Tuning, involving unfreezing the last layers of the pretrained model
 
-Please note that the dataset used is the third version of the Chest X-Ray dataset available here.
+Please note that the dataset used is the third version of the Chest X-Ray dataset available here.-> "https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images/data"
 
 Content-
 Dataset Information
