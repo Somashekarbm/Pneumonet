@@ -2,8 +2,9 @@
 
 Pneumonia Detection through chest scan images : Image Classification w/ Convolutional Neural Networks and Transfer Learning using ResNet and fine tuned resnet models.
 
+## Overview
+This was a project we made as an assignment after our 5th semester Computer Vision workshop.
 
-Overview
 The goal of this project is to utilize Convolutional Neural Networks (CNNs) on Chest X-Ray images to identify samples from patients with Pneumonia. The dataset used (version 3) comprises two folders representing the train set and the test set. The train folder is later partitioned in the notebook into train/validation sets.
 
 Three different approaches are explored for image classification:
